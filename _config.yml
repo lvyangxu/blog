@@ -7,13 +7,13 @@ title: 吕杨旭的blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 吕杨旭
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://github.com/lvyangxu/blog
+url: ""
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
