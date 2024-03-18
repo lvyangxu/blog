@@ -34,7 +34,8 @@ jobs:
     - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v2
       with:
-          path: ./public
+          name: github-pages
+          path: public
   deploy:
     needs: build
     environment:
