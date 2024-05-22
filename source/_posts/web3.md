@@ -100,7 +100,7 @@ const xxxx = await contractInstance.methods
 
 ```
 
-#### 开始实战
+### 开始实战
 + 技术准备就绪后，就可以开始写业务代码了。这个学习项目我做了一个最简单的投票需求，每个账号都可以投一次。大家都可以看到每个选项的得票数
 + 新建一个合约，路径为 contracts\KunVote.sol，内容参考示例工程
 + 编写合约的部署代码，在ignition\modules目录下面，照着脚手架创建的Lock.ts拷贝一个就行
@@ -109,4 +109,4 @@ const xxxx = await contractInstance.methods
 + 切换到前端工程，拿到hardhat生成的合约地址、ABI接口，使用web3js库就可以进行调用了
 + 项目动图如下
 
-<img src="images/web3demo.gif" style="width:50%">
+<img src="web3demo.gif" style="width:50%">
