@@ -1,7 +1,7 @@
 ---
 title: 学习react native
 date: 2024-03-10 13:47:56
-tags:
+tags: 应用开发
 ---
 
 ## 简介

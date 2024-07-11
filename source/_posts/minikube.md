@@ -1,7 +1,7 @@
 ---
 title: k8s开发环境minikube搭建
 date: 2024-03-27 16:40:32
-tags:
+tags: 开发工具
 ---
 
 ## 概要
