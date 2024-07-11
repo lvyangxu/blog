@@ -109,4 +109,8 @@ const xxxx = await contractInstance.methods
 + 切换到前端工程，拿到hardhat生成的合约地址、ABI接口，使用web3js库就可以进行调用了
 + 项目动图如下
 
-<img src="./images/web3/web3demo.gif" style="width:50%">
+<div style="width:50%;margin:auto">
+
+![](images/web3/web3demo.gif)
+
+</div>

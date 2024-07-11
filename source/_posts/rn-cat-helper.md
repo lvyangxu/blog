@@ -42,7 +42,12 @@ github地址:  https://github.com/lvyangxu/rn-cat-helper
 
 6. 调试demo，手机连上电脑开启usb调试，工程节目输入npm start，然后再输入a，等待电脑向手机安装app，成功完成搭建。
 
-<img src="./images/demo-debug.jpg" style="width:50%">
+<div style="width:50%;margin:auto">
+
+![](images/rn-cat-helper/demo-debug.jpg)
+
+</div>
+
 
 ## 第三方依赖库
 

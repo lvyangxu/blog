@@ -12,7 +12,12 @@ tags: 开发工具
 ### 开启hyper-V
 可以通过任务管理器判断hyper-v是否开启
 
-<img src="./images/taskmanager.png" style="width:50%">
+
+<div style="width:50%;margin:auto">
+
+![](images/minikube/taskmanager.png)
+
+</div>
 
 部分主板需要去bios里面打开cpu的虚拟化功能，然后使用powershell管理员模式运行下列命令开启hyper-v
 ```shell
