@@ -63,4 +63,4 @@ php artisan serve
 ```
 vscode安装扩展PHP Debug后，开启调试进程，即可进行断点调试，示例图如下：
 
-<img src="breakpoint.png" style="width:50%">
+<img src="./images/php-dev/breakpoint.png" style="width:50%">
